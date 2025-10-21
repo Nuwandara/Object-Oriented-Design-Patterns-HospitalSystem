@@ -62,6 +62,7 @@ src/
 
 3.Run Main.java to see the system in action.
 
+---------------------------------------------------------
 🖥 Demo Output
 
 Generates lab reports, prescriptions, appointments, and invoices.
@@ -72,6 +73,7 @@ Notifies doctors, patients, and receptionists of events.
 
 Sends prescriptions to external pharmacy via JSON.
 
+---------------------------------------------------------
 🛠 Technologies
 
 Java SE
@@ -80,23 +82,17 @@ Object-Oriented Design Patterns
 
 JSON for external pharmacy integration
 
+---------------------------------------------------------
 📜 License
 
 MIT License © 2025
 Feel free to use, modify, and share this project.
 
+---------------------------------------------------------
 🚀 Author
 
 Nuwandara Abeykoon
 
 
----
 
-This version has:  
-- Emojis for sections ✅  
-- Badges for Java, Design Patterns, License ✅  
-- Tables for design patterns ✅  
-- Clean, modern, readable formatting ✅  
-
----
 
