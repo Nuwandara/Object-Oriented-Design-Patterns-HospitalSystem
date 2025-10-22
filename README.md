@@ -33,26 +33,9 @@ It showcases **modular architecture**, **clean code**, and **practical OOP imple
 
 ---
 
-## 📁 Project Structure
-src/
-└─ main/
-└─ java/
-└─ Main.java
-└─ HospitalDatabase.java
-└─ MedicalRecordFactory.java
-└─ HospitalFacade.java
-└─ PaymentStrategyHandler.java
-└─ LabReport.java
-└─ Prescription.java
-└─ Appointment.java
-└─ Invoice.java
-└─ HospitalSystem.java
-└─ PharmacyAdapter.java
-└─ ExternalPharmacyAPI.java
-└─ Observer.java
 
 
----
+
 
 ## ▶ How to Run
 1. **Clone the repository**:  
